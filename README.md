@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tishan Dinelka Perera</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tishanperera&label=Profile%20views&color=0e75b6&style=flat" alt="tishanperera" /> </p>
 
-- 🌱 I’m currently learning **at SlIIT**
+- 🌱 I’m currently learning **at SLIIT**
 
 - 📫 How to reach me **tishanperera2001@gmail.com**
 
