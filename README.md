@@ -25,16 +25,16 @@
        <img src="https://github.com/TishanPerera/TishanPerera/assets/153063309/fe53e2bb-86d9-4846-83cf-8cdf5762d30f" height="30" width="30">
         <img src="https://github.com/TishanPerera/TishanPerera/assets/153063309/fe53e2bb-86d9-4846-83cf-8cdf5762d30f" height="30" width="30">
       
-
+</div>
 
    <br>
    <br>
           
-</div><h1 align="center">Hi 👋, I'm Tishan Dinelka Perera</h1>
+<h1 align="center">Hi 👋, I'm Tishan Dinelka Perera</h1>
 <h3 align="center">While( ! ( succeed = try() ) );</h3
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tishanperera&label=Profile%20views&color=0e75b6&style=flat" alt="tishanperera" /> <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" /></p> </p>
+<div><p align="center"> <img src="https://komarev.com/ghpvc/?username=tishanperera&label=Profile%20views&color=0e75b6&style=flat" alt="tishanperera" /> <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" /></p>div>
 
 <table align="center">
 <tr>
