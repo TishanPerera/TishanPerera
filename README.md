@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tishan Dinelka Perera</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tishanperera&label=Profile%20views&color=0e75b6&style=flat" alt="tishanperera" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tishanperera&label=Profile%20views&color=0e75b6&style=flat" alt="tishanperera" /> <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" /></p> </p>
 
 - 🌱 I’m currently learning **MERN stack**
 
