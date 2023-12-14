@@ -101,7 +101,7 @@
 ## 🎶 <b> Vibing to </b>
 <br>
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=31ulxw6yapjz6cwhv2jspmzo6yn4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ulxw6yapjz6cwhv2jspmzo6yn4&cover_image=true&theme=default&show_offline=true&background_color=#8B0000&interchange=true&bar_color_cover=true&bar_color=94ee91)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=31ulxw6yapjz6cwhv2jspmzo6yn4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ulxw6yapjz6cwhv2jspmzo6yn4&cover_image=true&theme=default&show_offline=true&background_color=8B0000&interchange=true&bar_color_cover=true&bar_color=94ee91)
 
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
