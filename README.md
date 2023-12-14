@@ -98,6 +98,9 @@
 </tr>
 </table>
 
+## 🎶 <b> Vibing to </b>
+<br>
+
 [[https://spotify-github-profile.vercel.app/api/view.svg?uid=31ulxw6yapjz6cwhv2jspmzo6yn4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ulxw6yapjz6cwhv2jspmzo6yn4&cover_image=true&theme=default&show_offline=true&background_color=8c4a4a&interchange=true&bar_color_cover=true&bar_color=94ee91)]]
 
 
