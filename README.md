@@ -29,8 +29,9 @@
 
    <br>
    <br>
-          
-<h1 align="center">Hi 👋, I'm Tishan Dinelka Perera</h1>
+         
+
+<h1 align="center">Hi <img src="https://github.com/TishanPerera/TishanPerera/assets/153063309/43a58baa-7b48-4e85-885a-83bd3a0f79cd" width ="35">, I'm Tishan Dinelka Perera</h1>
 <h3 align="center">While( ! ( succeed = try() ) );</h3
 
 
