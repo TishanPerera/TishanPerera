@@ -52,8 +52,8 @@
 </td>
 <td>
  
-
-   <img align="right" alt="GIF" height="300px" src=" https://github.com/TishanPerera/TishanPerera/assets/153063309/2bdb5763-521f-4902-8a8b-a132966916c4" />
+   <img align="right" alt="GIF" height="300px" src="https://github.com/TishanPerera/TishanPerera/assets/153063309/be766320-cf00-4c51-a06e-f78727fb0198" />
+   
 
 
 
