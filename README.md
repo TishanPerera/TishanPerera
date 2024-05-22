@@ -41,7 +41,7 @@
 <tr>
 <td align="left">
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=763581484887834634)
+
   
 - 🌱 I’m currently learning **MERN stack**
 
