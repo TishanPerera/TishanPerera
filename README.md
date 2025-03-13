@@ -21,7 +21,7 @@
 
 
   
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 🧑‍🎓 I’m an Undergraduate **at SLIIT**
 
@@ -91,8 +91,6 @@
 
 ## <img src="https://github.com/TishanPerera/TishanPerera/assets/153063309/94e3e662-a223-4c8d-ad07-872d921aa8fb" width="35"><b> Vibing to </b>
 <br>
-
-
 
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
